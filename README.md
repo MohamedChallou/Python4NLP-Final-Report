@@ -53,3 +53,11 @@
 ## Forschungsfrage:
 
 *Sind einfache oder sequenzbasierte NLP-Modelle bei der IMDB-Sentimentklassifikation dateneffizienter, und ab welcher Trainingsdatenmenge zeigen komplexere Modelle einen klaren Vorteil?*
+
+### Mögliche Unterfragen
+
+- Wie schnell steigt Performance mit mehr Daten?
+- Welches Modell ist bei wenig Daten stabiler?
+- Gibt es einen Punkt, ab dem zusätzliche Daten kaum noch helfen?
+- Rechtfertigt ein komplexeres Modell den höheren Trainingsaufwand?
+- Profitieren vortrainierte Modelle mehr, wenn Traingsdaaten limitiert sind?
