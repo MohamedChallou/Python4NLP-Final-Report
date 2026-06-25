@@ -49,3 +49,7 @@
 - klare Verbindung zwischen Code und den berichteten Experimenten im Report
 
 - in der Lage sein den eingereichten Code und methodische Entscheidungen erklären zu können
+
+## Forschungsfrage:
+
+*Sind einfache oder sequenzbasierte NLP-Modelle bei der IMDB-Sentimentklassifikation dateneffizienter, und ab welcher Trainingsdatenmenge zeigen komplexere Modelle einen klaren Vorteil?*
